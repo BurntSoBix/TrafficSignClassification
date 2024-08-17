@@ -30,7 +30,7 @@ Here is the link to the dataset:
 
 Baidu Cloud：https://pan.baidu.com/s/1xi1l9KLTy0o6uA4xp2geVQ?pwd=z6sv
 
-Google Drive：https://drive.google.com/file/d/16aiLErCjjMkhN1sx7pmhkQv6hOfv1tvJ/view?usp=sharing
+Google Drive：https://drive.google.com/file/d/1VndBrdNTMxcldmKE2hjFjJ2g-SaxRZ46/view?usp=sharing
 
 数据集压缩包包含images-v0、images-v1、labels-v0.csv、labels-v1.csv四个文件。其中images-v0是原始的数据集图像，共1,662张，labels-v0.csv是对应的标注文件。images-v1在images-v0的基础上进行了数据增强，每张图片随机进行左右翻转、hsv抖动或放大缩小等操作，共3,324张图像，labesl-v1.csv是对应的标注文件。下图是数据增强的效果示例。
 
